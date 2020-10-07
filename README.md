@@ -83,16 +83,16 @@ See the starter workbook for help on what modules to import and expected format 
 * Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
 
 
-* How does my DataFrame need to be structured for me to have the right x-axis and y-axis?
+ * How does my DataFrame need to be structured for me to have the right x-axis and y-axis?
 
 
-* How do I build a basic scatter plot?
+ * How do I build a basic scatter plot?
 
 
-* How do I add a label to that scatter plot?
+ * How do I add a label to that scatter plot?
 
 
-* Where would the labels for that scatter plot come from?
+ * Where would the labels for that scatter plot come from?
 
 
 Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
