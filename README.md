@@ -89,7 +89,7 @@ See the starter workbook for help on what modules to import and expected format 
   * How do I build a basic scatter plot?
 
 
-  *How do I add a label to that scatter plot?
+  * How do I add a label to that scatter plot?
 
 
   * Where would the labels for that scatter plot come from?
