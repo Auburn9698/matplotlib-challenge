@@ -1,6 +1,4 @@
-# matplotlib-challenge
-matplotlib-challenge
-# Matplotlib Homework - The Power of Plots
+# matplotlib-challenge - The Power of Plots
 
 ## Background
 What good is data without a good plot to tell the story?
