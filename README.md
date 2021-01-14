@@ -52,7 +52,7 @@ Summary Informtion is below:
 
 ![Scatter plots](https://github.com/Auburn9698/matplotlib-challenge/blob/main/Images/Charts.png)
 
-Obersvations:
+# Final Observations:
 * Capomulin and Ramicane seem to be the most effective treatments in terms of tumor volume, showing the greatest reduction in tumor volume over time.
 
 * Mouse weight and tumor volume seeem to be positively related on Capomulin, with a correlation coefficient of 0.84. The heavier mice tend to have greater tumor volumes.
