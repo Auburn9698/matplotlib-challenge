@@ -39,10 +39,12 @@ Summary Informtion is below:
  * Ceftamin shows no outliers.
 
 * Using Matplotlib, generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+
 ![Boxplots image](https://github.com/Auburn9698/matplotlib-challenge/blob/main/Images/Boxplots.png)
 
 
 * Selected a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
+
 ![Mouse 185 Image](https://github.com/Auburn9698/matplotlib-challenge/blob/main/Images/Mouse185.png)
 
 
